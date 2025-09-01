@@ -1,5 +1,9 @@
 ## Resubmission 
 
+This is a resubmission. In this version (v0.1.5), we did a small fix to for `ggplot2`'s reverse dependency.
+
+## Resubmission 
+
 This is a resubmission. In this version (v0.1.4):
 
 * Fixed note about HTML version change to 4.2.0 which caused the package to be archived on CRAN
