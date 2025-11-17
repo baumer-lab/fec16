@@ -2,14 +2,17 @@
 % Please edit documentation in R/fec16-package.R
 \docType{package}
 \name{fec16}
+\alias{fec16-package}
 \alias{fec16}
 \title{fec16: A Data Package for the 2016 Elections}
 \description{
 The fec16 package provides the following 9 datasets from the Federal Election Commission's 2015-2016 election cycle:
 }
+\details{
+
+}
 \section{Datasets}{
 
-\if{html}{\figure{hex_fec16.png}{options: style="float: right" width="45\%" alt="Figure: hex_fec16.png"}}
 \itemize{
 \item Candidates: \link{candidates}
 \item Committees: \link{committees}
@@ -45,3 +48,22 @@ In addition, \code{fec16} provides the \link{states} dataset giving geographical
 }
 }
 
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/baumer-lab/fec16}
+  \item Report bugs at \url{https://github.com/baumer-lab/fec16/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Marium Tapal \email{mariumtapal@gmail.com} (\href{https://orcid.org/0000-0001-5093-6462}{ORCID})
+
+Authors:
+\itemize{
+  \item Rana Gahwagy \email{r.w.g1@hotmail.com}
+  \item Irene Ryan \email{ryan.irene3@gmail.com}
+  \item Benjamin S. Baumer \email{ben.baumer@gmail.com} (\href{https://orcid.org/0000-0002-3279-0516}{ORCID})
+}
+
+}
