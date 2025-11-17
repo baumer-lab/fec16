@@ -1,6 +1,6 @@
 Package: fec16
 Title: Data Package for the 2016 United States Federal Elections
-Version: 0.1.5
+Version: 0.1.6
 Authors@R: c(
     person(given = "Marium",
            family = "Tapal",
@@ -50,5 +50,5 @@ LazyData: true
 URL: https://github.com/baumer-lab/fec16
 BugReports: https://github.com/baumer-lab/fec16/issues
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.3
 VignetteBuilder: knitr

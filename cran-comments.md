@@ -1,5 +1,9 @@
 ## Resubmission 
 
+This is a resubmission. In this version (v0.1.6), we did a small fix to the logo for the package documentation.
+
+## Resubmission 
+
 This is a resubmission. In this version (v0.1.5), we did a small fix to for `ggplot2`'s reverse dependency.
 
 ## Resubmission 

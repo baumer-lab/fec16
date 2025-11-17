@@ -3,7 +3,7 @@
 #' The fec16 package provides the following 9 datasets from the Federal Election Commission's 2015-2016 election cycle:
 #'
 #' @section Datasets:
-#' \if{html}{\figure{hex_fec16.png}{options: style="float: right" width="45%" alt="Figure: hex_fec16.png"}}
+#' \if{html}{\figure{hex_fec16.png}{options: style="float: right" width=120 alt="Figure: hex_fec16.png"}}
 #' \itemize{
 #'   \item Candidates: [candidates]
 #'   \item Committees: [committees]
